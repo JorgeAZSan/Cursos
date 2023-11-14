@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cursos</string>
+    <string name="titulo">Registro De Cursos</string>
+    <string name="name">Nombre:</string>
+    <string name="curso">Curso:</string>
+    <string name="costo">Costo:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="ver">ver</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="id">Id</string>
+    <string name="volver">Volver</string>
+</resources>
